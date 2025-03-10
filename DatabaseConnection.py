@@ -4,7 +4,7 @@ import mysql.connector
 # Set the values for HOST, PASSWORD, and DATABASE
 HOST = "localhost"
 PASSWORD = "password"
-DATABASE = "CS350 Project 1"
+DATABASE = "Python Project 1"
 
 # Establish initial connection with the MySQL database
 try:

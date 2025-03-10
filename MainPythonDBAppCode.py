@@ -11,7 +11,7 @@ from datetime import datetime
 #Set the values for HOST, PASSWORD, and DATABASE variables so they are global
 HOST = "localhost"
 PASSWORD = "password"
-DATABASE = "CS350 Project 1"
+DATABASE = "Python Project 1"
 
 #Define method for login activities for users who sign in and out of the app
 def log_activity(username, action):

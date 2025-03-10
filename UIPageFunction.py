@@ -10,7 +10,7 @@ from PyQt5 import QtWidgets
 #Set the values for HOST, PASSWORD, and DATABASE variables so they are global
 HOST = "localhost"
 PASSWORD = "password"
-DATABASE = "CS350 Project 1"
+DATABASE = "Python Project 1"
 
 #Create WelcomeScreen class, open WelcomeScreen.ui
 class WelcomeScreen(QDialog):
