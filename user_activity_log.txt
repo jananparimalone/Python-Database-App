@@ -1,0 +1,6 @@
+Timestamp: 2023-12-05 13:23:32 | User: administrator | Action: Logged in
+Timestamp: 2023-12-05 13:24:03 | User: administrator | Action: Query executed: INSERT INTO Emp_SE (`id`, `address`, `phone_no`, `salary`, `bloodgroup`) VALUES (%s,%s,%s,%s,%s)
+Timestamp: 2023-12-05 13:24:15 | User: administrator | Action: Query executed: UPDATE Emp_SE SET id = '1200', bloodgroup = '1278' WHERE ID = 1459
+Timestamp: 2023-12-05 13:24:31 | User: administrator | Action: Query executed: DELETE FROM Emp_SE WHERE ID = %s
+Timestamp: 2023-12-05 13:24:34 | User: administrator | Action: Logged out
+Timestamp: 2025-03-10 10:21:05 | User: username | Action: Logged out
